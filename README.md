@@ -16,11 +16,14 @@ The hackathon is presential, and will be hosted by the [ETSII at the University 
 
 # When
 
-April 14th, 2020, from 9:30 to 18:00
+April 14th, 2020, from 9:30 to 18:00.
 
 # What
 
-The main objective of the hackathon is to engage with code, learning best practices in reproducible software and helping others achieve that reproducibility. This will be arranged in the following schedule.
+The main objective of the hackathon is to engage with code and their
+creators, learning best practices in reproducible software and helping
+others achieve that reproducibility. This will be arranged in the
+following schedule.
 
 * 9:30 - 10:00 → Meet & greet
 * 10:00 - 10:30 → Brief presentation: test driven development and science reprodubility.
@@ -30,6 +33,8 @@ The main objective of the hackathon is to engage with code, learning best practi
 * 14:00 - 15:30 → Networking lunch onsite.
 * 15:30 - 17:00 → Team work
 * 17:00 - 18:00 → Project presentation
+
+Lunch and goodies will be provided by [EvoStar](https://evostar.org)
 
 # Organizers
 
