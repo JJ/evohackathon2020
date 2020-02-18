@@ -1,11 +1,16 @@
 # EvoHackathon 2020
 
 
-This year, and to foster collaboration among bioinspired algorithm practitioners and help them achieve reproducibility in science, a EvoHackathon will take place the day before EvoStar.
+This year, and with the intention of  fostering collaboration among
+bioinspired algorithm practitioners and help them achieve
+reproducibility in science, a EvoHackathon will take place the day
+before [EvoStar](https://evostar.org). 
 
 # Who
 
-Anyone can participate, whether they're part of the [EvoStar 2020](http://www.evostar.org/2020/) conference or not; the only requisite is that they want to share their code for improvement with the rest of the participants, or want to help improve other participant's code. Tutors are alwo welcome.
+Anyone can participate, whether they're part of the [EvoStar
+2020](http://www.evostar.org/2020/) conference or not; the only
+requisite is that they want to share their code as free software for improvement with the rest of the participants, or want to help improve other participant's code. Tutors are alwo welcome.
 
 The hackathon is presential, and will be hosted by the [ETSII at the University of Sevilla](https://www.informatica.us.es/), kindly provided by [SUGUS](https://sugus.eii.us.es/).
 
