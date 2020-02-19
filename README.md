@@ -20,7 +20,7 @@ The main objective of the hackathon is to engage with code, learning best practi
 * 9:30 - 10:00 → Meet & greet
 * 10:00 - 10:30 → Brief presentation: test driven development and science reprodubility.
 * 10:30 - 11:00 → Project pitch: those who are bringing their code to the hackathon will make a brief introduction and a wishlist for them.
-* 11:00 - 11:45 → Coffee breeak, and organizatio of teams.
+* 11:00 - 11:45 → Coffee breeak, and organization of teams.
 * 11:45 - 14:00 → Team work
 * 14:00 - 15:30 → Networking lunch onsite.
 * 15:30 - 17:00 → Team work
